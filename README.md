@@ -4,6 +4,7 @@
 - 📫 How to reach me on discord @custom_raider
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like Golf
+- CTF (SALT123)
 
 <!---
 Custom-Raider/Custom-Raider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
