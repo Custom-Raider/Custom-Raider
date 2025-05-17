@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Custom-Raider
-- 👀 I’m interested in Cyber Security and Networking
-- 🌱 I’m currently learning ... SOC Lv 1
-- 📫 How to reach me on discord @custom_raider
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like Golf
 - CTF Salt = (SALT1234)
